@@ -1,3 +1,4 @@
 Model created from drawings in https://space.nss.org/wp-content/uploads/SSP-Boeing-CR160372-1979-Phase1Vol3-Reference-System.pdf
 Blender model is crated in Blender 3.3
 FBX file exported from Blender model
+
